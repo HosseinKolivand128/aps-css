@@ -1,0 +1,47 @@
+.body {
+    background-color: white;
+}
+#name {
+    color: orange;
+}
+.box {
+    background-color: purple;
+    min-height: 932px;
+    width: auto;
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px solid black;
+    
+}
+.box1, .box2, .box3  {
+    background-color: yellow;
+    min-height: 300px;
+    width: 50% ;
+    margin: 1rem ;
+    padding: 1rem ;
+    border: 5px solid orange;
+}
+/* Font 1: Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.opensans {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+}
+/* Font 2: Montserrat */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
+/* Font 3: Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.roboto {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+
+/* styling */
+.font {
+    text-align: center;
+    padding: 20px;
+}

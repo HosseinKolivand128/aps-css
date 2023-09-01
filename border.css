@@ -1,0 +1,25 @@
+.parent{
+    width: 90vh;
+    height: 932px;
+    background-color: purple;
+
+}
+.child{
+    background-color: yellow;
+    border: solid 5px red;
+    height: 300px;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    box-sizing: border-box;
+
+}
+.one{
+    color: red;
+}
+.two{
+    color: rgb(0, 0, 0);
+}
+.three{
+    color: rgb(10, 127, 199);
+}

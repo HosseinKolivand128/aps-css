@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: #3F1D38;
+}
+
+.container{
+    background-color: #A2678A;
+    width: 80vh;
+    height: 932px;
+}
+
+.box{
+    width: 50%;
+    height: 300px;
+    background-color: #E19898;
+    margin: 1rem;
+    padding: 1rem;
+    border: 7px solid #3F1D38;
+}

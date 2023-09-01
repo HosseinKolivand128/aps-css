@@ -26,10 +26,15 @@ h1{
     border: 7px solid #3F1D38;
     font-family: 'Dancing Script', cursive;
     text-align: center;
-    box-shadow: 10px 10px 53px 0px #4D3C77;
     line-height: 40px;
     border-radius: 10px;
+    transition: 0.4s;
+    cursor: pointer;
     
+}
+
+.box:hover{
+    box-shadow: 10px 10px 53px 0px #4D3C77;
 }
 
 h2{

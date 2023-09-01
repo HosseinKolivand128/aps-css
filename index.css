@@ -1,0 +1,45 @@
+.heading {
+    color: coral;
+}
+.purple {
+    background-color: purple;
+    min-height: 932px;
+    width: 130vh;
+    box-sizing: border-box;
+}
+.box{
+    background-color: yellow;
+    height: 300px;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px solid red;
+}
+.boxx{
+    background-color: yellow;
+    height: 300px;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px solid red;
+}
+.boxxx{
+    background-color: yellow;
+    height: 300px;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px solid red;
+}
+.uph2{
+    color: red;
+}
+.medh2{
+    color: black;
+}
+.downh2{
+    color: springgreen;
+}
+.para{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}

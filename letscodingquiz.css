@@ -18,3 +18,25 @@
     min-height: 932px;
     width: 200vh;    
 }
+
+article>h2 , p {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+#piano {
+    color: rgb(231, 0, 0);
+    font-size: 2rem;
+    margin-bottom: 40px;
+}
+
+#drums {
+    color: rgb(0, 0, 0);
+    font-size: 2rem;
+    margin-bottom: 40px;
+}
+
+#chang {
+    color: rgb(0, 255, 64);
+    font-size: 2rem;
+    margin-bottom: 40px;
+}

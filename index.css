@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+.parent {
+    background-color: teal;
+    height: 932px;
+    width: 100vh;
+  
+}
+.child {
+    background-color: rgb(255, 234, 0);
+    height: 300px;
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px solid orangered;
+    width: 50%;
+    font-family: 'Bitter', serif;
+    box-sizing: border-box;
+}

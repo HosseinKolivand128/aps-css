@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Atomic+Age&display=swap');
+.container {
+    height: 932px;
+    width: 100vh;
+    background-color: darkgreen;
+}
+
+.box {
+    background-color: dodgerblue;
+    height: 300px;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    border: solid 5px;
+    box-sizing: border-box;
+    font-family: "Atomic Age",'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: blue;
+}
+
+.one {
+    color: yellow;
+}
+
+.two {
+    color: red;
+}
+
+.three {
+    color: green;
+}

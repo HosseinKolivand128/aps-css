@@ -7,3 +7,14 @@
     font-family: 'Cabin', sans-serif;
     box-sizing: border-box;
 }
+
+#heading {
+    color: #fa5e5e;
+    margin: 1rem;
+}
+
+.mother {
+    background-color:blueviolet;
+    min-height: 932px;
+    width: 200vh;    
+}

@@ -1,0 +1,28 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto+Slab&display=swap');
+h1{
+    color: darkmagenta;
+}
+.one{
+    height: 932px;
+    width:100vh ;
+    background-color: antiquewhite;
+}
+.two{
+    height: 300px;
+    width: 50%;
+    border: solid 5px blue ;
+    padding: 1rem;
+    margin: 1rem;
+    box-sizing: border-box;
+    background-color: hsl(228, 36%, 70%)
+
+}
+.para-one{
+    font-family: 'Roboto Slab', serif;
+    color: darkred;
+}
+h2{
+    font-family: 'Pacifico', cursive;
+    color: rgb(167, 41, 41);
+}

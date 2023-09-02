@@ -1,7 +1,7 @@
 .parent{
 background-color: blueviolet;
 height: 932px;
-min-width: 1vw;
+width: 100vh;
 }
 
 .child {

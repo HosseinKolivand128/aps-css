@@ -1,0 +1,50 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,200;1,300;1,700&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans:ital,wght@0,200;1,300;1,700&display=swap');
+*{
+    box-sizing: border-box;
+}
+.name{
+    color: darkblue;
+}
+.purple{
+    width:150vh;
+    min-height: 932px;
+    background-color: blueviolet;
+}
+.boxone{
+min-height: 300px;
+max-width: 50%;
+margin: 1rem;
+padding: 1rem;
+border: 5px solid darkblue;
+background-color: aqua;
+}
+.boxtwo{
+    min-height: 300px;
+    max-width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px solid darkblue;
+    background-color: aqua;
+}
+.boxthree{
+    min-height: 300px;
+    max-width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px solid darkblue;
+    background-color: aqua;
+}
+h2{
+    color: blue;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 2px;
+}
+ div p{
+    color: darkorchid;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    text-align: left;
+ }

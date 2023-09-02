@@ -1,0 +1,36 @@
+h1 {
+    color: #6C705E;
+}
+
+.container {
+    height: 932px;
+    width: 100vh;
+    background-color: #D08081;
+}
+
+.box1, .box2, .box3 {
+    background-color: #F2CEC2;
+    height: 300px;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px solid #56373C;
+    box-sizing: border-box;
+}
+
+.first-p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: #391E22;
+}
+
+.second-p {
+    font-family: 'Rubik Iso', cursive;
+    color: #391E22;
+}
+
+.third-p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: #391E22;
+}

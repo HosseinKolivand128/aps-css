@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+}
+.h1{
+    color: rgb(222, 70, 128);
+    font-family: Georgia, serif;
+}
+
+.A1 {
+    background-color: rgba(245, 118, 76, 0.689);
+    width: 80vh;
+    height: 932px;
+    font-family: serif;
+}
+
+.B1 {
+    width: 50%;
+    height: 300px;
+    background-color: rgba(247, 241, 69, 0.788);
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px solid rgb(241, 5, 72);
+    font-family: cursive;
+}

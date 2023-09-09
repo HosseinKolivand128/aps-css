@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Noto+Serif&family=Qwitcher+Grypen:wght@700&display=swap');
+#name{
+    color: #2050ff;
+}
+b{
+    font-weight: bold;
+}
+#moo{
+    color: azure;
+}
+#ear{
+    color: rgb(12, 168, 33);
+}
+#su{
+    color: rgb(231, 146, 34);
+}
+.parent{
+    background-color: rgba(85, 177, 230, 0.863);
+    height: 1050px;
+    width: 900px;
+}
+.boxone{
+background-color: rgb(250, 113, 243);
+height: 300px;
+width: 50%;
+margin: 1rem;
+padding: 1rem;
+border: 5px blue solid;
+box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 300;
+  font-style: italic;
+}
+.boxtwo{
+    background-color: rgb(250, 113, 243);
+height: 300px;
+width: 50%;
+margin: 1rem;
+padding: 1rem;
+border: 5px blue solid;
+box-sizing: border-box;
+font-family:Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    }
+    .boxthree{
+        background-color: rgb(250, 113, 243);
+height: 300px;
+width: 50%;
+margin: 1rem;
+padding: 1rem;
+border: 5px blue solid;
+box-sizing: border-box;
+font-family:Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-style: italic;
+        }
+        .try{
+            background-color: maroon;
+            color: aliceblue;
+            height: 932px;
+            width: 20vh;
+        }

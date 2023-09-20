@@ -1,0 +1,20 @@
+.parent{
+background-color: blueviolet;
+height: 932px;
+width: 100vh;
+}
+
+.child {
+    font-family: 'Roboto Mono', monospace;
+    box-sizing: border-box;
+    background-color: yellow;
+    height: 300px;
+    margin: 1rem;
+    border: solid orange 5px;
+    padding: 1rem;
+    width: 50%;
+}
+
+h2 {
+    color: rgb(218, 36, 142);
+}

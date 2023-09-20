@@ -1,0 +1,62 @@
+.name{
+    color: blue;
+}
+
+.parent{
+    background-color: #0C356A;
+    min-height: 932px;
+    width: 100vh;
+    border: solid 1px #0C356A;
+    
+}
+
+.first{
+    background-color: #40F8FF;
+    height: 300px;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px;
+    box-sizing: border-box;
+}
+
+.second{
+    background-color: #40F8FF;
+    height: 300px;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px;
+    box-sizing: border-box;
+}
+
+.third{
+    background-color: #40F8FF;
+    height: 300px;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px;
+    box-sizing: border-box;
+}
+
+.one{
+    color: hotpink;
+}
+
+.two{
+    color: purple;
+}
+.three{
+    color: blue;
+}
+
+.border{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.margin{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.content{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

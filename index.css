@@ -1,0 +1,57 @@
+.body {
+    background-color: white;
+}
+#name {
+    color: orange;
+}
+.box {
+    background-color: purple;
+    height: 932px;
+    width: auto;
+    margin:  0 1rem 0 1rem;
+    padding: 0 1rem 0 1rem;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.box1, .box2, .box3  {
+    background-color: yellow;
+    height: 300px;
+    width: 50% ;
+    margin: 1rem ;
+    padding: 1rem ;
+    border: 5px solid orange;
+    display: flex;
+    flex-direction: column;
+}
+/* Font 1: Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.opensans {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+/* Font 2: Montserrat */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+}
+/* Font 3: Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.roboto {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+/* Additional styling for the container */
+.font {
+    text-align: left;
+    padding: 0 1rem;
+}
+.box1 {
+margin: 0 1rem 1rem 1rem;
+}
+.box3 {
+    margin: 1rem 1rem 0 1rem;
+}

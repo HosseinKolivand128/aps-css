@@ -1,0 +1,18 @@
+.one{
+    width: 932px;
+    height: 932vh;
+    background-color: blueviolet;
+}
+.box{
+    min-height:300px;
+    margin: 2rem;
+    padding: 1rem;
+    border: 5px;
+    width: 50%;
+    background-color: yellow;
+    font-family: 'Rubik Iso', cursive;
+    outline: 8px ridge rgb(1, 232, 248);
+border-radius: 1rem;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
